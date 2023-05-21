@@ -7,7 +7,7 @@ Dataset: https://www.kaggle.com/datasets/brendanartley/cartoon-faces-googles-car
 # Results
 
 The result you see there occurred after about 44 epochs, which was about 4 hours of training.
-![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/3f36c8f9-b90a-4bfe-877a-a4d0da3800d8)
-![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/f2c6bd62-d0ea-46a0-83e3-0d7bba203b6b)
-![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/92eb84d5-49de-4804-9c52-f0f1a6118d17)
-![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/0557ec42-90c1-482d-8ac4-cb1d73164dcb)
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/2f3bd5c0-6c96-4a52-a656-d3c362b9d3cd)
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/bd3f11b8-b4f6-496b-98c0-57f0b39931c7)
+
+
