@@ -28,10 +28,10 @@ Dataset: https://www.kaggle.com/datasets/brendanartley/cartoon-faces-googles-car
 ![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/8720a158-bfeb-4237-97a3-5fbd32ce6099)
 
 ## 55 Epoch
-![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/d7bd5777-2042-4c51-9703-d7e698bca72e)
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/3e0261a4-00c4-402a-85e7-f93982c624b8)
 
 ## 66 Epoch
-![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/4daa5937-6124-429c-bf3f-4046ca3927bd)
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/91ce9052-1eb8-4cf6-8528-24b2b73fbb5a)
 
 # Results
 
