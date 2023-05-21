@@ -4,6 +4,35 @@ I've always wondered how artificial intelligence recreates our reality. So I dec
 
 Dataset: https://www.kaggle.com/datasets/brendanartley/cartoon-faces-googles-cartoon-set
 
+# Training
+
+## 1 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/bb4a4cab-6bbb-4048-aa8b-23aae9df168a)
+
+## 2 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/b5f1c486-28f2-480c-a4e8-c362a9972daa)
+
+## 3 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/f3c585c8-0549-4610-8d5f-41035045012a)
+
+## 13 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/ad7bb379-db21-4583-8e08-633fbac6ce4a)
+
+## 23 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/f1b301b1-f3a4-4380-a080-9ab54ff128f1)
+
+## 33 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/20d6ef19-608c-4a52-8ced-de7c5109d02b)
+
+## 44 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/8720a158-bfeb-4237-97a3-5fbd32ce6099)
+
+## 55 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/d7bd5777-2042-4c51-9703-d7e698bca72e)
+
+## 66 Epoch
+![image](https://github.com/PyMati/Google-Carton-Faces-WGAN/assets/104796292/4daa5937-6124-429c-bf3f-4046ca3927bd)
+
 # Results
 
 The result you see there occurred after about 44 epochs, which was about 4 hours of training.
